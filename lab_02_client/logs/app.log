@@ -1,0 +1,10 @@
+14:19:51.000 [main] INFO  Main -  Start App
+14:26:46.005 [main] INFO  Main -  Start App
+14:30:42.595 [main] INFO  Main -  Start App
+14:31:12.342 [main] INFO  Main -  Start App
+14:31:26.344 [main] DEBUG Main -  connectToServer: 127.0.0.1 1502
+14:31:29.470 [main] DEBUG Main -  Successfully connected to server: 127.0.0.1 1502
+14:31:48.960 [main] DEBUG Main -  sendToServer:  test mess
+14:33:24.479 [main] INFO  Main -  Start App
+14:33:28.158 [main] DEBUG Main -  Exit form app
+14:35:04.707 [main] INFO  Main -  Start App
